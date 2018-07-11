@@ -10,7 +10,7 @@
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "createDocs": "typedoc --out ./docs ./src --exclude **/*.d.ts --ignoreCompilerErrors --hideGenerator --name 'WEB-UI'"
+    "createDocs": "typedoc --out ./docs ./src --exclude **/*.d.ts --ignoreCompilerErrors --hideGenerator --name 'TESTDOCS'"
   },
   "repository": {
     "type": "git",
