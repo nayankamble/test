@@ -1,0 +1,3 @@
+var typedoc = typedoc || {};
+            typedoc.search = typedoc.search || {};
+            typedoc.search.data = {"kinds":{"1":"External module","32":"Variable","64":"Function"},"rows":[{"id":0,"kind":1,"name":"\"greeter\"","url":"modules/_greeter_.html","classes":"tsd-kind-external-module"},{"id":1,"kind":64,"name":"greeter","url":"modules/_greeter_.html#greeter","classes":"tsd-kind-function tsd-parent-kind-external-module tsd-is-not-exported","parent":"\"greeter\""},{"id":2,"kind":32,"name":"user","url":"modules/_greeter_.html#user","classes":"tsd-kind-variable tsd-parent-kind-external-module tsd-is-not-exported","parent":"\"greeter\""}]};
